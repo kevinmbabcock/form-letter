@@ -1,3 +1,24 @@
 #letter {
   display: none;
+  margin: 20px;
+}
+
+.header {
+  line-height: 10px;
+  width: 400px;
+  background-color: yellow;
+  border: 2px solid blue;
+  padding: 10px;
+}
+
+.name {
+  margin-left: 44px;
+}
+
+.address2 {
+  margin-left: 70px;
+}
+
+.text {
+  margin-top: 50px;
 }
